@@ -37,6 +37,13 @@
 - Storing images will cost too much RAM, needs to store only the useful informations 
 - Possibility of doing pattern recognition knowing the map to target ROI to analyse instead of the whole img (maybe not really increasing perfs)
 
+#### In-Memory fuckoffs
+
+- Does VAC works like a keylogging fuck ?
+  - Anti-keylogging farts just to try
+- Does VAC and Windows like in-game thread injections ?
+  - Anal
+
 ### Memory analysis
 #### OllyDBG vs Immunity
 #### http://lmgtfy.com/?q=how+to+debug+gpu
