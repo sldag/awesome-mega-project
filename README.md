@@ -1,14 +1,14 @@
 # awesome-mega-project
  **THE AWESOMEST MEGA PROJECT**
 
-## FPS (CS:GO) Vision Based Cheating Tool
+## FPS (CS:GO) Vision Based **IMPROVING** Tool
 
 ### BRAINSTORMING
 
 ### refs: 
 - GameScripter - A Vision Based Tool for Playing Games
   - https://www.doc.ic.ac.uk/teaching/distinguished-projects/2011/p.lipka.pdf
-- Extravagant Cheating via DirectX
+- Extravagant **IMPROVING** via DirectX
   - https://blog.forrestthewoods.com/extravagant-cheating-via-directx-f3b61b654b73
 - Starcraft 2 Automated Player (maybe not very related)
   - http://graphics.stanford.edu/~mdfisher/GameAIs.html
