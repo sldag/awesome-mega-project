@@ -12,7 +12,7 @@
   - https://blog.forrestthewoods.com/extravagant-cheating-via-directx-f3b61b654b73
 - Starcraft 2 Automated Player (maybe not very related)
   - http://graphics.stanford.edu/~mdfisher/GameAIs.html
-Game Hacking - Developing Autonomous Bots for Online Games
+- Game Hacking - Developing Autonomous Bots for Online Games
   - ftp://lab.dnict.vn/1.DNICT/2.Ebooks/Hacking/Game%20Hacking.pdf
 
 ### language/libs
