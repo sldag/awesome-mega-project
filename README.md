@@ -6,7 +6,7 @@
 ### BRAINSTORMING
 
 ### refs: 
-1. GameScripter - A Vision Based Tool for Playing Games
+- GameScripter - A Vision Based Tool for Playing Games
   - https://www.doc.ic.ac.uk/teaching/distinguished-projects/2011/p.lipka.pdf
 - Extravagant Cheating via DirectX
   - https://blog.forrestthewoods.com/extravagant-cheating-via-directx-f3b61b654b73
