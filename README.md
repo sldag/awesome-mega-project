@@ -3,9 +3,11 @@ Awesomest mega project
 
 FPS (CS:GO) Vision Based Cheating Tool
 
-\t BRAINSTORMING
+BRAINSTORMING
 
 refs: 
+Game Hacking - Developing Autonomous Bots for Online Games
+ftp://lab.dnict.vn/1.DNICT/2.Ebooks/Hacking/Game%20Hacking.pdf
 GameScripter - A Vision Based Tool for Playing Games
 https://www.doc.ic.ac.uk/teaching/distinguished-projects/2011/p.lipka.pdf
 Extravagant Cheating via DirectX
